@@ -29,7 +29,7 @@
 <body>
     <header>
         <h1>Nisa Büyükyıldırım</h1>
-        <p>Contact Information: <a href="mailto:bueyuekyil@uni-potsdam.de">bueyuekyil@uni-potsdam.de</a> | Phone: 01771815597</p>
+        <p>Contact Information: <a href="mailto:bueyuekyil@uni-potsdam.de">bueyuekyil@uni-potsdam.de</a></p>
         <p>Address: Park Babelsberg 14, 2.12.2, 14482 Potsdam</p>
         <p>Date of Birth: 08.11.1999</p>
     </header>
@@ -102,6 +102,11 @@
             <li>
                 <strong>Verb Aspect Processing in Monolingual and Heritage Speakers of Turkish</strong><br>
                 Authors: Nisa Büyükyıldırım, Onur Özsoy, Özce Özceçelik, Serkan Uygun<br>
+                <em>(In Preparation)</em>
+            </li>
+            <li>
+                <strong>Accusative and Dative Case Alternations in Heritage and Majority Turkishes</strong><br>
+                Authors: Onur Özsoy, Kateryna Iefremenko (University of Potsdam), Nisa Büyükyıldırım, Christoph Schroeder, Natalia Gagarina<br>
                 <em>(In Preparation)</em>
             </li>
         </ul>
