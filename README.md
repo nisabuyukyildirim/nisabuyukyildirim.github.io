@@ -29,6 +29,7 @@
 <body>
     <header>
         <h1>Nisa Büyükyıldırım</h1>
+        <img src="biometric.jpg" alt="Nisa Büyükyıldırım" class="profile-pic">
         <p>Contact Information: <a href="mailto:bueyuekyil@uni-potsdam.de">bueyuekyil@uni-potsdam.de</a></p>
         <p>Address: Park Babelsberg 14, 2.12.2, 14482 Potsdam</p>
         <p>Date of Birth: 08.11.1999</p>
