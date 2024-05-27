@@ -5,6 +5,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nisa Büyükyıldırım's CV</title>
     <style>
+        <style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f4f4f9;
+    }
+    header, section {
+        margin-bottom: 20px;
+    }
+    h1, h2 {
+        color: #333;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+    li {
+        margin-bottom: 10px;
+    }
+    img.profile-pic {
+        max-width: 150px;
+        border-radius: 50%;
+        display: block;
+        margin-bottom: 20px;
+    }
+</style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -29,6 +56,7 @@
 <body>
     <header>
         <h1>Nisa Büyükyıldırım</h1>
+        <img src="biometric.jpg" alt="Nisa Büyükyıldırım" class="profile-pic">
         <p>Contact Information: <a href="mailto:bueyuekyil@uni-potsdam.de">bueyuekyil@uni-potsdam.de</a></p>
         <p>Address: Potsdam/Berlin, Germany </p>
         <p>Date of Birth: 08.11.1999</p>
