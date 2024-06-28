@@ -47,12 +47,12 @@
             <li>
                 <strong>02/2024 – Present</strong><br>
                 <em>Student Assistant at Humboldt University</em><br>
-                Continuation of the RUEG project at Leibniz-ZAS
+                
             </li>
             <li>
                 <strong>06/2023 – Present</strong><br>
                 <em>Student Assistant at University</em><br>
-                Movement events, annotations<br>
+                Path-motion events, annotations<br>
                 Case alternations in heritage Turkish (RUEG P10)<br>
                 Dynamics of the verbal aspect in language contact (RUEG P10)
             </li>
@@ -110,7 +110,7 @@
             <li>
                 <strong>Verb Aspect Processing in Monolingual and Heritage Speakers of Turkish</strong><br>
                 Authors: Nisa Büyükyıldırım, Onur Özsoy, Özce Özceçelik, Serkan Uygun<br>
-                <em>(In Preparation)</em>
+                <em>(Preprint)</em>
             </li>
             <li>
                 <strong>Accusative and Dative Case Alternations in Heritage and Majority Turkishes</strong><br>
