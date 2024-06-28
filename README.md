@@ -50,7 +50,7 @@
                 
             </li>
             <li>
-                <strong>06/2023 – Present</strong><br>
+                <strong>06/2023 – 06/2024</strong><br>
                 <em>Student Assistant at University</em><br>
                 Path-motion events, annotations<br>
                 Case alternations in heritage Turkish (RUEG P10)<br>
